@@ -1,7 +1,7 @@
 import cv2
 import os
 import numpy as np
-from cvzone.HandTrackingModule import HandDetector
+from HandTrackingModule import HandDetector
 
 # Parameters
 width, height = 1280, 720
