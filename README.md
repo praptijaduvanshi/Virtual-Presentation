@@ -18,4 +18,5 @@ A presentation control system that detects hand gestures to navigate and annotat
 - Gesture 5: Erase Latest Drawing [0, 1, 1, 1, 0]
 
 ### Worflow Diagram
+<img width="497" alt="VP3" src="https://user-images.githubusercontent.com/67221447/228815410-fd957881-b0f8-4de6-b517-8f9c70f278e7.png">
 
