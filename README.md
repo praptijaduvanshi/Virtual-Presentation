@@ -11,9 +11,11 @@ A presentation control system that detects hand gestures to navigate and annotat
 - Gesture based controls like switching slides, activating drawing tool, erasing etc.
 
 ### Gesture-based Functionalities:
-Gesture 1: Slide to Previous Slide [1, 0, 0, 0, 0]
-Gesture 2: Slide to Next Slide [0, 0, 0, 0, 1]
-Gesture 3: Activate Pointer [0, 1, 1, 0, 0]
-Gesture 4: Draw Pointer [0, 1, 0, 0, 0]
-Gesture 5: Erase Latest Drawing [0, 1, 1, 1, 0]
+- Gesture 1: Slide to Previous Slide [1, 0, 0, 0, 0]
+- Gesture 2: Slide to Next Slide [0, 0, 0, 0, 1]
+- Gesture 3: Activate Pointer [0, 1, 1, 0, 0]
+- Gesture 4: Draw Pointer [0, 1, 0, 0, 0]
+- Gesture 5: Erase Latest Drawing [0, 1, 1, 1, 0]
+
+### Worflow Diagram
 
